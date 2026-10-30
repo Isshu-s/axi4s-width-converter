@@ -1,0 +1,35 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Fri Oct 30 12:18:47 2026
+[*]
+[dumpfile] "D:\projects\Git\axi4s_width_converter\axi4s_conv.vcd"
+[dumpfile_mtime] "Fri Oct 30 12:13:16 2026"
+[dumpfile_size] 8186
+[savefile] "D:\projects\Git\axi4s_width_converter\axi4s.gtkw"
+[timestart] 0
+[size] 1536 793
+[pos] -61 -61
+*-17.124216 330000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] axi4s_width_conv_tb.
+[sst_width] 197
+[signals_width] 174
+[sst_expanded] 1
+[sst_vpaned_height] 221
+@22
+axi4s_width_conv_tb.clk
+axi4s_width_conv_tb.rst_n
+axi4s_width_conv_tb.s_axis_tvalid
+axi4s_width_conv_tb.s_axis_tready
+axi4s_width_conv_tb.s_axis_tlast
+axi4s_width_conv_tb.s_axis_tdata[31:0]
+axi4s_width_conv_tb.dut.state[1:0]
+axi4s_width_conv_tb.dut.word0[31:0]
+axi4s_width_conv_tb.dut.m_axis_tvalid
+axi4s_width_conv_tb.dut.m_axis_tready
+axi4s_width_conv_tb.dut.m_axis_tlast
+axi4s_width_conv_tb.dut.m_axis_tdata[63:0]
+axi4s_width_conv_tb.dut.clk_en
+axi4s_width_conv_tb.dut.en_latched
+axi4s_width_conv_tb.dut.gated_clk
+[pattern_trace] 1
+[pattern_trace] 0
